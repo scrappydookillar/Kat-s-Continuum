@@ -10,3 +10,13 @@
 </body>
 
 </html>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Inline CSS Background</title>
+</head>
+<body style="background-color:powderblue;">
+    <h1>This page has a powderblue background.</h1>
+</body>
+</html>
